@@ -10,8 +10,20 @@ List of good files in repo:
 - []()
 - []()
 
-## Chapter 1:
-Quick introduction about the chapter
+## Structure of folders:
+https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean-data
+
+- publication
+- _drafts
+- _images (scripts and generated images, split categories by prefix)
+- analysis (scripts and generated data, split categories by prefix)
+- tests
+- ccc (stands for credit card classification)
+  - models
+    - model1
+    - model2
+  - data
+  
 ## Chapter 2:
 Quick introduction about the chapter
 ## Chapter 3:
