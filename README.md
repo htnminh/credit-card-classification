@@ -23,6 +23,16 @@ https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean
     - model1
     - model2
   - data
+
+todo-ist:
+- lin reg
+- knn: thang
+- rand f
+- des tree
+- svm: nam
+- nn
+- analysis (derive from generated data)
+- report
   
 ## Chapter 2:
 Quick introduction about the chapter
