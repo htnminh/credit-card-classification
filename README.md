@@ -27,7 +27,7 @@ https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean
 todo-ist:
 - lin reg
 - knn: thang
-- rand f
+- rand f: phuc
 - des tree
 - svm: nam
 - nn
