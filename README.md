@@ -28,12 +28,12 @@ todo-ist:
 - lin reg
 - knn: thang
 - rand f: phuc
-- des tree
+- des tree: phuc
 - svm: nam
 - nn: minh
 - analysis (derive from generated data)
 - report
-- slide
+- slide: thang
   
 ## Chapter 2:
 Quick introduction about the chapter
