@@ -33,6 +33,7 @@ todo-ist:
 - nn
 - analysis (derive from generated data)
 - report
+- slide
   
 ## Chapter 2:
 Quick introduction about the chapter
