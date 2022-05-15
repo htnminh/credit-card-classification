@@ -25,14 +25,14 @@ https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean
   - data
 
 todo-ist:
-- lin reg
+- lin reg: minh
 - knn: thang
 - rand f: phuc
 - des tree: phuc
 - svm: nam
 - nn: minh
-- analysis (derive from generated data)
-- report
+- analysis (derive from generated data): everyone
+- report: everyone
 - slide: thang
   
 ## Chapter 2:
