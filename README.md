@@ -33,7 +33,7 @@ todo-ist:
 - nn: minh
 - analysis (derive from generated data): everyone
 - report: everyone
-- slide: thang
+- slide: tan
   
 ## Chapter 2:
 Quick introduction about the chapter
