@@ -30,7 +30,7 @@ todo-ist:
 - rand f: phuc
 - des tree
 - svm: nam
-- nn
+- nn: minh
 - analysis (derive from generated data)
 - report
 - slide
