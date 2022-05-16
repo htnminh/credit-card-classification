@@ -31,6 +31,7 @@ todo-ist:
 - des tree: phuc
 - svm: nam
 - nn: minh
+- prob approach: tan
 - analysis (derive from generated data): everyone
 - report: everyone
 - slide: tan
