@@ -10,9 +10,9 @@ List of good files in repo:
 - []()
 - []()
 
-## Structure of folders:
+## Info
 https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean-data
-
+Structure of folders
 - publication
 - _drafts
 - _images (scripts and generated images, split categories by prefix)
@@ -35,6 +35,15 @@ todo-ist:
 - analysis (derive from generated data): everyone
 - report: everyone
 - slide: tan
+  
+steps:
+- Collecting Data
+- Preparing the Data
+- Choosing a Model
+- Training the Model
+- Evaluating the Model
+- Parameter Tuning
+- Making Predictions
   
 ## Chapter 2:
 Quick introduction about the chapter
