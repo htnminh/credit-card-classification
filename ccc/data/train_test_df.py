@@ -1,6 +1,8 @@
+import _preparation
+
 from sklearn.model_selection import train_test_split
 
-from data_df import get_data_df
+from data.data_df import get_data_df
 
 
 def get_train_test_df():
@@ -23,4 +25,5 @@ def get_train_test_df():
 
 
 if __name__ == '__main__':
-    print(get_train_test_df())
+    X_train, y_train, X_test, y_test = get_train_test_df()
+    print(X_train, y_train, X_test, y_test)
