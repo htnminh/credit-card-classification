@@ -9,7 +9,7 @@ def get_train_test_df():
     stratified by y (i.e. the proportion between Target of 0 and 1 are equal
     in train and test)
     '''
-    TEST_SIZE = 0.2
+    TEST_SIZE = 0.15
     RANDOM_STATE = 42
 
     df = get_data_df()
