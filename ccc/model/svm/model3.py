@@ -7,5 +7,5 @@ model3.dataPrepare(test_size= 0.2,dimention_reduct=True,k=28, feature_select=Tru
 model3.train(15,'auto')
 model3.predict()
 model3.confusion_matrix(True)
-print(model1.accuraccy())
-print(model1.f_score(0))
+print(model3.accuraccy())
+print(model3.f_score(0))
