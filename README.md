@@ -41,7 +41,7 @@ todo-ist:
 ![](https://github.com/htnminh/credit-card-classification/blob/main/_images/Screenshot%202022-06-19%20185845.png)
 
 ## (plenty of) Things to do and Deadlines
-let's just pretend that the hard deadline is 23rd june (23/6), since i have no clue when is the deadline exactly.
+the hard deadline is 30/6
 
 roadmap & deadline:
 - Collecting Data: done (`clean_data.csv`)
