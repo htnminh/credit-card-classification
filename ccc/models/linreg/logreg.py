@@ -1,5 +1,3 @@
-import imp
-import _preparation
 
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
