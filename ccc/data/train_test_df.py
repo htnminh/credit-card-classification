@@ -1,3 +1,11 @@
+'''
+THIS SCRIPT IS USED TO GENERATE X_test.csv, X_train.csv, y_test.csv, AND y_train.csv
+FROM clean_data.csv THEREFORE ONLY NEED TO RUN ONCE AT THE START OF THE PROJECT.
+
+RANDOM_STATE = 69
+'''
+
+
 import os
 import pandas as pd
 
