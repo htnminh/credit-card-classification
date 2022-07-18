@@ -26,12 +26,12 @@ Structure of folders
   - data
 
 todo-ist:
-- lin reg: minh
 - knn: thang
 - rand f: phuc
 - des tree: phuc
 - svm: nam
 - nn: minh
+- ensemble: minh
 - prob approach: tan
 - analysis (derive from generated data): everyone
 - report: everyone
