@@ -1,5 +1,10 @@
 # Credit card classification
-Description
+
+Metrics: f2 score:
+```py
+f2_score = lambda y_test, y_pred: fbeta_score(y_test, y_pred, beta=2)
+f2_scorer = make_scorer(fbeta_score, beta=2)
+```
 <!--
 ![preview](https://github.com/htnminh/python-template/blob/main/docs/preview.png)
 
@@ -36,9 +41,7 @@ todo-ist:
 - analysis (derive from generated data): everyone
 - report: everyone
 - slide: tan
-  
-## Quick guide
-![](https://github.com/htnminh/credit-card-classification/blob/main/_images/Screenshot%202022-06-19%20185845.png)
+ 
 
 ## (plenty of) Things to do and Deadlines
 the hard deadline is 30/6
