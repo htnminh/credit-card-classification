@@ -1,2 +1,10 @@
+# call
+# pip install <name>
+
 pandas
+
 scikit-learn
+matplotlib
+
+category_encoders
+imbalanced-learn
