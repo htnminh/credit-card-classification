@@ -1,6 +1,6 @@
 '''
-THIS SCRIPT IS USED TO GENERATE X_test_prep.csv AND X_train_prep.csv
-FROM X_test.csv, X_train.csv
+THIS SCRIPT IS USED TO GENERATE *_prep.csv files
+FROM X_test.csv, X_train.csv, y_test.csv, AND y_train.csv
 THEREFORE ONLY NEED TO RUN ONCE AT THE START OF THE PROJECT.
 
 RANDOM_STATE = 69
