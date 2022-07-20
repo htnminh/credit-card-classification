@@ -11,23 +11,13 @@ import os
 import pandas as pd
 import numpy as np
 
-import matplotlib.pyplot as plt
-
 import category_encoders as ce
 
-from sklearn.ensemble import BaggingClassifier
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import fbeta_score
 from sklearn.metrics import confusion_matrix
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import PowerTransformer
 
-from imblearn.over_sampling import SMOTE
-from imblearn.over_sampling import KMeansSMOTE
-from imblearn.over_sampling import ADASYN
-from imblearn.over_sampling import SVMSMOTE
 from imblearn.over_sampling import SMOTENC
 
 
@@ -105,7 +95,7 @@ X_test.to_csv(os.path.join(ABS_PATH, 'X_test_prep.csv'), index=False)
 pd.DataFrame(y_test).to_csv(os.path.join(ABS_PATH, 'y_test_prep.csv'), index=False)
 
 
-# MENTAL TEST
+# TEST
 '''
 rf = RandomForestClassifier(n_estimators=50, 
                             max_depth=5,  # seriously overfitting without this param
