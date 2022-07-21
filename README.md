@@ -1,16 +1,5 @@
 # Credit card classification
 
-```
-<!--
-![preview](https://github.com/htnminh/python-template/blob/main/docs/preview.png)
-
-
-List of good files in repo:
-- []()
-- []()
-- []()
--->
-
 ## Dataset
 https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean-data
 
