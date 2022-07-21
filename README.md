@@ -1,70 +1,28 @@
 # Credit card classification
 
-Metrics: f2 score:
-```py
-f2_score = lambda y_test, y_pred: fbeta_score(y_test, y_pred, beta=2)
-f2_scorer = make_scorer(fbeta_score, beta=2)
-```
-<!--
-![preview](https://github.com/htnminh/python-template/blob/main/docs/preview.png)
-
-
-List of good files in repo:
-- []()
-- []()
-- []()
--->
-
-## Info
+## Dataset
 https://www.kaggle.com/datasets/samuelcortinhas/credit-card-classification-clean-data
 
-Structure of folders
-- publication
-- _drafts
-- _images (scripts and generated images, split categories by prefix)
-- analysis (scripts and generated data, split categories by prefix)
-- tests
-- ccc (stands for credit card classification)
-  - models
-    - model1
-    - model2
-  - data
+## Project Description
+Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.
 
-todo-ist:
-- knn: thang
-- rand f: phuc
-- des tree: phuc
-- svm: nam
-- nn: minh
-- ensemble: minh
-- prob approach: tan
-- analysis (derive from generated data): everyone
-- report: everyone
-- slide: tan
- 
+Our approach to the task was to explore the data, do necessary data preprocessing, create machine learning models, do evaluation and then conclude the result. For the models, we used plenty of popular ones like k-Nearest Neighbors, Random Forest, Support Vector Machines, Ensemble Learning, Artificial Neural Network, and Probabilistic models.
 
-## (plenty of) Things to do and Deadlines
-the hard deadline is 30/6
+## Assignments
+Hoang Tran Nhat Minh - 20204883
+- Group leader
+- Data exploration and preprocessing
+- Ensemble learning
+- Artificial neural network 
 
-roadmap & deadline:
-- Collecting Data: done (`clean_data.csv`)
-- Preparing the Data: 19/6
-- Choosing a Model: assigned
-- Training the Model: 26/6 (sun)
-- Evaluating the Model: 26/6 (sun)
-- Parameter Tuning: 26/6 (sun)
-- Making Predictions: 26/6 (sun)
+Nguyen Hoang Phuc - 20204923
+- Random forest 
 
-malicious things:
-- report: 29/6 (wed)
-- slide: 29/6 (wed)
+Ly Nhat Nam - 20204886
+- Support vector machine 
 
-## Chapter 3:
-Quick introduction about the chapter
+Hoang Van Thang - 20204892
+- k-nearest neighbor 
 
-# Docs
-- [Other files]()
-- [LICENSE]()
-- [Code of Conduct]()
-- [Contributing]()
-- [Issue templates]()
+Le Thao Anh - 20200054
+- Probabilistic modeling
